@@ -1,0 +1,17 @@
+@import 'antd/dist/antd.css';
+
+h1{
+    font-size: 30px;
+}
+
+.Design{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+
+.Design1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}

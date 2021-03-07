@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    background-color: grey;
+    font-size: 20px;
+    padding: 20px;
+}
+nav a
+{
+    text-decoration: none;
+    color: #fff;
+}
+ nav a:hover{
+    color: darkblue;
+    cursor: pointer;
+}
+
+
